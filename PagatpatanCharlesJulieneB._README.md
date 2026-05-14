@@ -16,10 +16,5 @@ How to Run (Source Code):
 2. Open the .sln file
 3. Press F5 to run
 
-Algorithms Implemented:
-- First Come First Serve (FCFS)
-- Shortest Job First (SJF)
-- Shortest Remaining Time (SRT)
-- Round Robin (RR)
-- Priority Scheduling
-- Priority with Round Robin
+## Video Demonstration
+Link: [(google drive link)](https://drive.google.com/file/d/1zKLv_2nPUweR9h2P6MiS5W380lXwlLE1/view?usp=drive_link)
